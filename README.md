@@ -8,7 +8,7 @@ I'm Qian Wenjun, a y1s1 student from UTM. My major is Graphics and Multimedia So
   - 2.Programming Technique 1
   - 3.Discrete Structure
   - 4.Digital Logic
-## 💻skills
+## 💻Skills
    C++
 ## 📧Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com)
